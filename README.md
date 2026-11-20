@@ -1,6 +1,6 @@
 # BIT 2118 – Scientific Computing
 
-**Student:** RYAN NDERITU · **Reg. no:** BSCCS/2024/42638 · **Unit:** BIT 2118 Scientific Computing
+**Student:** DANSON MWENDA · **Reg. no:** BSCCS/2024/43374· **Unit:** BIT 2118 Scientific Computing
 
 Each task (2 to 20) has a program, console output, documentation and, where useful, a figure. The documentation for every task follows the brief:
 
